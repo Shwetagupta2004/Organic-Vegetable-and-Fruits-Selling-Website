@@ -1,0 +1,43 @@
+@media only screen and (max-width:768px){
+    .carousel-caption
+    {
+        bottom: 380px;
+    }
+    .carousel-caption h2
+    {
+        font-size: 17px;
+    }
+    .carousel-caption a
+    {
+        padding: 10px 15px;
+    }
+    .carousel-caption p
+    {
+        width: 100%;
+        line-height: 1.6;
+        font-size: 12px;
+    }
+
+}
+.carousel-item
+{
+    height: 90vh;
+    min-height: 250px;
+}
+.carousel-item h2
+{
+    text-transform: uppercase;
+}
+#heading1
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#cardheading
+{
+    font-size: 2rem;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+}
